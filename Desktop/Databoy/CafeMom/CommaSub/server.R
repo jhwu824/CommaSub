@@ -9,6 +9,4 @@ shinyServer(function(input, output) {
 })
 
 
-###commasub <- function(text) {
-###        gsub("\r", ", ", input$text1)
-###}
+###la la la changing shit here for later
